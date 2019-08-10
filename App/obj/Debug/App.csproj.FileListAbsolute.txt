@@ -1,0 +1,10 @@
+C:\Users\ttang\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\bin\Debug\App.dll
+C:\Users\ttang\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\bin\Debug\App.pdb
+C:\Users\ttang\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\ttang\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\obj\Debug\App.dll
+C:\Users\ttang\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\obj\Debug\App.pdb
+C:\Users\Tai\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\bin\Debug\App.dll
+C:\Users\Tai\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\bin\Debug\App.pdb
+C:\Users\Tai\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Tai\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\obj\Debug\App.dll
+C:\Users\Tai\Desktop\ASOS SE Code Test\ASOS SE Code Test - Tai Fa Tang\App\obj\Debug\App.pdb
